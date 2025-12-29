@@ -44,10 +44,10 @@
 Все три персонажа (обычный ниндзя, маг и лучник) имееют полностью свой игровой процесс. Прогресс по уровням, характеристики, уровень и инвентарь сохраняется отдельно. 
 
 # Screens
-![Image Sequence_018_0000](https://github.com/user-attachments/assets/b339e419-4d26-4efb-8b03-b40fee5287ef)
-![Image Sequence_016_0000](https://github.com/user-attachments/assets/d8c8213f-7b35-478b-8796-87c72b95812b)
-![Image Sequence_015_0000](https://github.com/user-attachments/assets/f0c53495-7233-4ab0-a445-00d16c06d0a7)
-![Image Sequence_014_0000](https://github.com/user-attachments/assets/69e5dbf5-5969-401d-9eee-4eb7b3291589)
-![Image Sequence_013_0000](https://github.com/user-attachments/assets/00af5757-0f6a-41fd-a296-afb8fe43513a)
-![Image Sequence_011_0000](https://github.com/user-attachments/assets/0b807678-f084-4d94-8558-77c241253c49)
-![Image Sequence_010_0000](https://github.com/user-attachments/assets/65523536-b476-4995-9b76-e36948cc91f2)
+![ru_1_v1](https://github.com/user-attachments/assets/8a17de5e-f805-492d-8200-c31d6831c30a)
+![ru_2_v1](https://github.com/user-attachments/assets/5118db67-befa-4df5-9af8-14e24ad5a584)
+![ru_3_v1](https://github.com/user-attachments/assets/be85e66f-355e-4dfd-878d-a7e6116d173e)
+![ru_4_v1](https://github.com/user-attachments/assets/18189bd9-7345-445f-a3ba-40b50ed085f2)
+![un_5_v1](https://github.com/user-attachments/assets/a9d089b4-a7fb-4fa2-8918-d786cd19a57c)
+![un_6_v1](https://github.com/user-attachments/assets/163f3ea1-31ab-4755-9c41-d77e840b966d)
+
