@@ -44,6 +44,7 @@
 Все три персонажа (обычный ниндзя, маг и лучник) имееют полностью свой игровой процесс. Прогресс по уровням, характеристики, уровень и инвентарь сохраняется отдельно. 
 
 # Screens
+![Image Sequence_020_0000](https://github.com/user-attachments/assets/07820fc2-0122-488f-b52a-b9ed02797c38)
 ![ru_1_v1](https://github.com/user-attachments/assets/8a17de5e-f805-492d-8200-c31d6831c30a)
 ![ru_2_v1](https://github.com/user-attachments/assets/5118db67-befa-4df5-9af8-14e24ad5a584)
 ![ru_3_v1](https://github.com/user-attachments/assets/be85e66f-355e-4dfd-878d-a7e6116d173e)
